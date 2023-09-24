@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Fast React Pizza Co. Menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Fast React Pizza Co. Menu is a web application that showcases a delightful menu of authentic Italian pizzas. Users can browse through the pizza options, view details, and check if a pizza is available or sold out. This application provides a simple and interactive way for customers to explore the delicious pizza offerings.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Overview](#overview)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Live Demo](#live-demo)
+- [Development](#development)
+  - [Technologies Used](#technologies-used)
+  - [Key Components](#key-components)
+- [Installation](#installation)
+- [Author](#author)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
 
-### `npm test`
+- **Pizza Menu:** View a menu of authentic Italian pizzas with descriptions, prices, and availability.
+- **Sold Out Status:** Easily identify sold-out pizzas in the menu.
+- **Opening Hours:** Check the restaurant's opening hours and place an order online during business hours.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshots
 
-### `npm run build`
+![Fast React Pizza Co. Menu Screenshot](https://i.imgur.com/UJGRTOm.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Explore the live application: [Fast React Pizza Co. Menu Demo](https://pizza-menu-7tlh47339-theleonoir.vercel.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Development
 
-### `npm run eject`
+### Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React: The core library used for building the user interface and managing components.
+- CSS: Styling is done using CSS to create an attractive and user-friendly design.
+- JavaScript: The primary programming language used for implementing menu functionality.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Key Components
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Here are some key components of the Fast React Pizza Co. Menu:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Pizza Menu:** Browse through a list of pizzas with their names, ingredients, photos, prices, and availability.
+- **Header:** Display the restaurant's name and branding.
+- **Footer:** Show the opening hours and the option to order online.
+- **Order:** Allow customers to place orders online only during business hours.
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone this repository to your local machine using Git: git clone [https://github.com/leonorlazami/todo-list](https://github.com/leonorlazami/pizza-menu)
+2. Navigate to the project directory: cd pizza-menu
+3. Install the required dependencies: npm install
+4. Start the development server : npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
+- Leonor Lazami
+- GitHub: https://github.com/leonorlazami
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
